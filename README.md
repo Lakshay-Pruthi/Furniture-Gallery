@@ -7,7 +7,7 @@ To install Furniture Gallery, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory and run `npm install` to install the necessary dependencies.
-3. Run `npm start` to start the development server.
+3. Run `npm run dev` to start the development server.
 
 ## Contributing
 
